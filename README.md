@@ -9,6 +9,8 @@
 
 🔍 Estou buscando novas ideias de projetos para treinar e  melhorar meus conhecimentos
 
+📫 E-mail para contato: lucasvieirabrit@gmail.com
+
 <br/>
 
 ⤵️ Veja o meu Linkedin saber mais sobre mim 😄
