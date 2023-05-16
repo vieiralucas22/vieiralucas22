@@ -1,2 +1,12 @@
 # Sejam bem-vindos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-https://icons8.com.br/icon/0I1TXgnS9W0C/homem-de-p%C3%A9
+
+
+👨‍💻 Muito prazer, me chamo Lucas e sou um estudante de engenharia da computação na universidade PUC-Campinas
+
+💻 Sou um estágiario no Instituto SiDi em desenvolvimento Android
+
+📚 Atualmente estou estudando Java com ênfase no desenvolvimento Android
+
+🔍 Estou buscando novas ideias de projetos para treinar e  melhorar meus conhecimentos
+
+
